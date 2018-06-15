@@ -1,0 +1,27 @@
+#
+# asusblocklist
+#
+# ipv4 hash:ip ipset
+#
+# list of ip addresses that have attacked asus routers
+#
+# Maintainer      : brentil
+# Maintainer URL  : https://github.com/brentil/AsusBlockList
+# List source URL : https://raw.githubusercontent.com/brentil/AsusBlockList/master/asusblocklist.ipset
+#
+# Category        : attacks
+# Version         : 1
+#
+# This File Date  : 2018.06.14
+# Update Frequency: 12 hours 
+# Aggregation     : none
+# Entries         : 9 unique IPs
+104.244.72.82
+104.244.73.53
+104.244.76.219
+142.0.37.197
+187.123.167.212
+191.184.227.22
+206.189.11.189
+209.141.42.3
+51.15.225.222
